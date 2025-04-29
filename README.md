@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 💬 Ask me about **Sql,Python,EDA using python,Statistics for machine learning,Machine learning,Excel,Tableau,PowerBI**
+- 💬 Ask me about **SQL,Python,EDA ,Statistics,Machine learning,Excel,Tableau,PowerBI,Gen AI**
 
 - 📫 How to reach me **amudhinijr@gmail.com**
 
